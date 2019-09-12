@@ -1,0 +1,16 @@
+public class Reference
+{
+  public static void main(String[] args)
+  {
+  }
+  
+  public static void println(int num)
+  {
+    System.out.println(num);
+  }
+  
+  public static void println(double num)
+  {
+    System.out.println(num);
+  }
+} 
